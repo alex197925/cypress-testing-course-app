@@ -23,6 +23,17 @@ npx cypress open
 ````
 > ### This command launches the Cypress Test Runner, allowing you to manage and run your tests seamlessly.
 
+## Testing <h1> with Cypress
+###  Example:
+```
+ context("hero section", () => {
+    it("the h1 contains the correct text", () => {
+      cy.get("h1")
+        .should("exist")
+        .contains("Testing Next.js Applications with Cypress")
+    })
+```
+
 
 
 
