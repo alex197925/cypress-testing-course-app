@@ -9,7 +9,8 @@ The `start` branch is the main branch for this repo and is the starting point fo
 ## Welcome to my  journey into mastering the Cypress automation testing framework! 
 
   Comprehensive guide:
-  *** Installation ***
+  
+  **Installation**
   To incorporate Cypress into your project
   >1. Install Cypress via npm:
   ```
