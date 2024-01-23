@@ -21,6 +21,7 @@ npm install cypress --save-dev
 npx cypress open
 
 ````
+> ### This command launches the Cypress Test Runner, allowing you to manage and run your tests seamlessly.
 
 
 
