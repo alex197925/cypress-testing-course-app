@@ -23,7 +23,7 @@ npx cypress open
 ````
 > ### This command launches the Cypress Test Runner, allowing you to manage and run your tests seamlessly.
 
-## Testing <h1> with Cypress
+## Testing text with Cypress
 ###  Example:
 ```
  context("hero section", () => {
