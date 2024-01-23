@@ -16,6 +16,11 @@ The `start` branch is the main branch for this repo and is the starting point fo
   ```
 npm install cypress --save-dev
   ```
+  >2. Open Cypress:
+  ````
+npx cypress open
+
+````
 
 
 
