@@ -11,7 +11,7 @@ The `start` branch is the main branch for this repo and is the starting point fo
   Comprehensive guide:
   
   **Installation**
-  To incorporate Cypress into your project
+
   >1. Install Cypress via npm:
   ```
 npm install cypress --save-dev
